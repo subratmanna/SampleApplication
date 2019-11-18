@@ -10,12 +10,12 @@
       <maven.compiler.source>1.6</maven.compiler.source>
       <maven.compiler.target>1.6</maven.compiler.target>
   </properties>
-  <dependancies>
+  <dependencies>
     <dependacy>
       <groupId>junit</groupId>
-      <artifactId>junit</groupId>
+      <artifactId>junit</artifactId>
       <version>4.9</version>
       <scope>test</scope>
     </dependacy>
-  </dependencies>
+    </dependencies>
 </project>
